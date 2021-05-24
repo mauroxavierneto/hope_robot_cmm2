@@ -3,3 +3,5 @@
 
 You are a testing prototype nanomachine called HOPE ROBOT, which is the last hope of humanity to extinguish the virus plague that spread to all the world.
 Navigate inside human bodies and save patients in this nano adventure for your Colour Maximite 2.
+
+* News on 23/05/21 - Now with new indented source code and fully commented!
